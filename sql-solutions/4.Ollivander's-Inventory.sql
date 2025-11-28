@@ -1,5 +1,6 @@
-
-
+-- Soal 4 : Ollivander's Inventory
+-- Link: https://www.hackerrank.com/challenges/harry-potter-and-wands/problem
+-- Tujuan: Window Function
 
 SELECT id, age, coins_needed, power
 FROM (
