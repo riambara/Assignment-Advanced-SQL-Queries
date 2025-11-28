@@ -12,7 +12,7 @@ This repository contains my SQL solutions for Data Engineering bootcamp assignme
 
 ## 📊 Assignment Solutions
 
-### 1. The Report - Student Grade Mapping
+### 1. [The Report - Student Grade Mapping] (sql-solutions/1.the-report.sql)
 **Problem**: Map students to grades and handle display logic based on grade thresholds
 **Key Concepts**: JOIN with value ranges, CASE statements, multi-column sorting
 
