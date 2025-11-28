@@ -1,3 +1,7 @@
+-- Soal 3 : Top Competitors
+-- Link: https://www.hackerrank.com/challenges/full-score/problem
+-- Tujuan: Join multi-tabel, Agregasi, dan filter with HAVING
+
 WITH full_score_submissions AS (
     SELECT 
         s.hacker_id,
