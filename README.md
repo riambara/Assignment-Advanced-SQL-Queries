@@ -28,7 +28,7 @@ This repository contains my SQL solutions for Data Engineering bootcamp assignme
 **Problem**: Find non-evil wands with minimum cost for each power/age combination
 **Key Concepts**: Window functions, PARTITION BY, advanced filtering
 
-### 5. Contest Leaderboard - Maximum Scores
+### 5. [Contest Leaderboard - Maximum Scores](sql-solutions/5.Contest-Leaderboard.sql)
 **Problem**: Calculate total scores based on maximum per challenge
 **Key Concepts**: Multi-level aggregation, JOIN with master tables
 
