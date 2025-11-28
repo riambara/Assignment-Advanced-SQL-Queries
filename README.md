@@ -16,15 +16,15 @@ This repository contains my SQL solutions for Data Engineering bootcamp assignme
 **Problem**: Map students to grades and handle display logic based on grade thresholds
 **Key Concepts**: JOIN with value ranges, CASE statements, multi-column sorting
 
-### 2. Weather Observation Station 18 - Manhattan Distance
+### 2. [Weather Observation Station 18 - Manhattan Distance](sql-solutions/2.weather-station-18.sql)
 **Problem**: Calculate Manhattan distance between furthest points
 **Key Concepts**: MIN/MAX aggregation, mathematical operations, decimal precision
 
-### 3. Top Competitors - Full Score Challenges  
+### 3. [Top Competitors - Full Score Challenges](sql-solutions/3.Top-Competitors.sql)
 **Problem**: Find hackers who achieved full scores in multiple challenges
 **Key Concepts**: Multi-table JOINs, HAVING clause, complex aggregation
 
-### 4. Ollivander's Inventory - Minimum Cost Wands
+### 4. [Ollivander's Inventory - Minimum Cost Wands](sql-solutions/4.Ollivander's-Inventory.sql)
 **Problem**: Find non-evil wands with minimum cost for each power/age combination
 **Key Concepts**: Window functions, PARTITION BY, advanced filtering
 
